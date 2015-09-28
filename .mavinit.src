@@ -1,0 +1,3 @@
+module load droneapi.module.api
+api start mavscript.py
+
